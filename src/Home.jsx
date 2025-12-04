@@ -15,7 +15,7 @@ export default function Home() {
       {/* <TickerTape /> */}
       <Second />
       <Third />
-      <Fourth />
+      {/* <Fourth /> */}
       <Fifth />
       <Sixth />
     </>
